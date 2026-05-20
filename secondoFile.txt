@@ -1,1 +1,3 @@
 ciao sono un secondo file
+
+modifica diversa per causare un conflitto.
