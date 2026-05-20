@@ -2,3 +2,5 @@ ciao sono un secondo file
 
 modifica diversa per causare un conflitto.
 questa modifica causera' un conflitto
+
+nuova modifica fatta da github
