@@ -4,3 +4,6 @@ modifica diversa per causare un conflitto.
 questa modifica causera' un conflitto
 
 nuova modifica fatta da github
+
+
+nuova modifica fatta da locale
